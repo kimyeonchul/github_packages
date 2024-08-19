@@ -9,3 +9,6 @@
   "license": "ISC",
   "description": ""
 }
+"publishConfig": {
+  "@kimyeonchul:registry": "https://npm.pkg.github.com"
+}
